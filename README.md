@@ -1,4 +1,4 @@
-# Kaishi 1.5k
+# 🖼️ Kaishi pictures 1.5k
 
 ##### What is this?
 This is a fork of the Kaishi 1.5k deck, but with pictures included.
