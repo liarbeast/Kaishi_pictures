@@ -1,9 +1,10 @@
 # Kaishi 1.5k
 
+##### What is this?
 This is a fork of the Kaishi 1.5k deck, but with pictures included.
 
-> [!NOTE] Status
-> Progress is currently at around 85%.
+##### Status
+All the cards in the deck currently have images. While I am quite confident about how well the images fit, I am a total beginner in Japanese, so I do not know if the matches are 100% accurate. I have used resources such as Jisho to best try to determine the meanings and uses of words.
 
 
 ## Credits
