@@ -39,3 +39,8 @@ These tools were used in the creation of the deck:
 [FFmpeg](https://ffmpeg.org/) - used to take out some silent parts in various audio files
 
 [Tenacity](https://tenacityaudio.org/) - used to edit clipping sounds in various audio files
+
+[Batch Download Pictures From Google Images](https://ankiweb.net/shared/info/561924305) - used to automatically retrieve images where possible
+
+[Irasutoya](https://www.irasutoya.com/) - images used
+
