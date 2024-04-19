@@ -2,7 +2,7 @@
 
 This is a fork of the Kaishi 1.5k deck, but with pictures included.
 
-> [!NOTE] 
+> [!NOTE] Status
 > Progress is currently at around 85%.
 
 
