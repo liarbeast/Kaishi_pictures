@@ -42,5 +42,5 @@ These tools were used in the creation of the deck:
 
 [Batch Download Pictures From Google Images](https://ankiweb.net/shared/info/561924305) - used to automatically retrieve images where possible
 
-[Irasutoya](https://www.irasutoya.com/) - images used
+[Irasutoya](https://www.irasutoya.com/) - source of images
 
