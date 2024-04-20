@@ -32,6 +32,8 @@ cindsa - verified the pitch accent for the last 750 cards and added pitch notes
 
 [Kaanium](https://github.com/kaanium) - helped make a script to convert the deck to the writing version
 
+[liarbeast](https://github.com/liarbeast) - added pictures to the deck
+
 ##### These tools were used in the creation of the deck:
 
 [AJT Japanese](https://github.com/Ajatt-Tools/Japanese) - pitch accent, furigana and some of the audio were generated using this add-on
